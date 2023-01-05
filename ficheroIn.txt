@@ -1,0 +1,4 @@
+hola mundo
+desde un fichero
+hacia otro fichero
+chao mundo
